@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: /assets/img/profilepic.jpg
+headshot: /assets/img/tpSharon_132.jpg
 permalink: /about
 ---
 
